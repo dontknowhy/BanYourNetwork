@@ -1,0 +1,36 @@
+#部分工作
+#酷狗由于注册的域名太多，且最后一招是直接上公网ip，所以最后做到的只能是去掉除了听歌之外的功能（直播未测试）。
+#不过每个页面加载1分钟算好了
+127.0.0.1 gateway.kugou.com
+127.0.0.1 spt.service.kugou.com
+127.0.0.1 softstat.kugou.com
+127.0.0.1 config.mobile.kugou.com
+127.0.0.1 pcstat.kugou.com
+127.0.0.1 m2kgshow.kugou.com
+127.0.0.1 www2.kugou.kugou.com
+127.0.0.1 apmconfservice.kugou.com
+127.0.0.1 collect.kugou.com
+127.0.0.1 fxsong3.kugou.com
+127.0.0.1 rt-p.kugou.com
+127.0.0.1 pigeon.kugou.com
+127.0.0.1 pcres.kugou.com
+127.0.0.1 storage1.dcdn.kugou.com
+127.0.0.1 characteristics.service.kugou.com
+127.0.0.1 expendablekmrcdn.kugou.com
+127.0.0.1 fspc.kugou.com
+127.0.0.1 imge.kugou.com
+127.0.0.1 www.kugou.com
+127.0.0.1 gatewayretry.kugou.com
+127.0.0.1 gateway3.kugou.com
+127.0.0.1 pcstatbak.kugou.com
+127.0.0.1 ip.kugou.com
+127.0.0.1 openapi.kugou.com
+127.0.0.1 serveraddr.service.kugou.com
+127.0.0.1 49.7.251.227
+127.0.0.1 pcretry.kugou.com
+127.0.0.1 mediastoreretry.kugou.com
+127.0.0.1 tracker.kugou.com
+127.0.0.1 mtools.kugou.com
+127.0.0.1 config.mobile.kugou.com
+127.0.0.1 userservice.kugou.com
+127.0.0.1 www4.kugou.kugou.com
