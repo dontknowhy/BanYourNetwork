@@ -1,0 +1,2 @@
+# BanYourNetwork
+用hosts屏蔽的方式折磨你的煞笔同学看片
